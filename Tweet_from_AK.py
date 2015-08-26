@@ -4,8 +4,6 @@ import time, tweepy, sys
 import os, urllib
 import simplejson,json
 import csv, string
-#username = 'ukyresearch'
-#password = '070605lastday'
 
 OAUTH_TOKEN = ''
 OAUTH_SECRET = ''
